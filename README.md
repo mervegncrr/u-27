@@ -72,11 +72,11 @@ belirtilmiştir. Ek olarak, görevler yüksek, orta ve düşük öneme sahip ola
 
 Sprint board screenshotları:
 
-![Drone Takip Sistemi, Auto-Aim ve Auto-Fire](https://drive.google.com/file/d/14Cb4t0c7QbMSMKfLxnZNrer7bsw7rlEs/view?usp=sharing)
+![Drone Takip Sistemi, Auto-Aim ve Auto-Fire] (https://drive.google.com/file/d/14Cb4t0c7QbMSMKfLxnZNrer7bsw7rlEs/view?usp=sharing)
 
-![NPC(Enemy) Attack to Player](https://drive.google.com/file/d/1xYWwmRRputBQAXdYKwk-P5e-Wu3XqoSq/view?usp=sharing)
+![NPC(Enemy) Attack to Player] (https://drive.google.com/file/d/1xYWwmRRputBQAXdYKwk-P5e-Wu3XqoSq/view?usp=sharing)
 
-![NPC Spawner Çalışmaları](https://drive.google.com/file/d/1wHf34XP8VIMsqO-7PVYcW5iMr4jQ69ga/view?usp=sharing)
+![NPC Spawner Çalışmaları] (https://drive.google.com/file/d/1wHf34XP8VIMsqO-7PVYcW5iMr4jQ69ga/view?usp=sharing)
 
 
 # Sprint Raporu
