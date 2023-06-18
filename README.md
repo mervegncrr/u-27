@@ -77,6 +77,8 @@ Sprint board screenshotları:
 ![NPC(Enemy) Attack to Player](https://drive.google.com/file/d/1xYWwmRRputBQAXdYKwk-P5e-Wu3XqoSq/view?usp=sharing)
 
 ![NPC Spawner Çalışmaları](https://drive.google.com/file/d/1wHf34XP8VIMsqO-7PVYcW5iMr4jQ69ga/view?usp=sharing)
+
+
 # Sprint Raporu
 
 ## Sprint Planlama Tarihi: 04.06.23 – 18.06.
